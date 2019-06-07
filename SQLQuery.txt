@@ -1,0 +1,20 @@
+
+CREATE DATABASE ComputerClub
+USE ComputerClub
+
+CREATE TABLE [dbo].[Orders] (
+    [Id]        INT      IDENTITY (1, 1) NOT NULL,
+    [NamePC]      NVARCHAR(50)      NOT NULL,
+    [DateStart] DATETIME NOT NULL,
+    [DateEnd]   DATETIME NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[PCs] (
+    [Id]         INT           IDENTITY (1, 1) NOT NULL,
+    [Name]       NVARCHAR (30) NOT NULL,
+    [StatusId]   INT           NOT NULL,
+    [TimerToEnd] TIME (7)      NULL,
+    [SelectedTime] TIME NULL, 
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

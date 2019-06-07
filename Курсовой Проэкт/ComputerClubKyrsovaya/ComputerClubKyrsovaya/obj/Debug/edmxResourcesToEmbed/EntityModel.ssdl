@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ComputerClubModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ImagesPC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ImagePath" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PCId" Type="int" />
+    <Property Name="DateStart" Type="date" Nullable="false" />
+    <Property Name="DateEnd" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PCs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="StatusId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StatePC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Image_Id" Type="int" />
+  </EntityType>
+  <Association Name="FK__Orders__PCId__173876EA">
+    <End Role="PCs" Type="Self.PCs" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PCs">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="PCId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__StatePC__Image_I__145C0A3F">
+    <End Role="ImagesPC" Type="Self.ImagesPC" Multiplicity="0..1" />
+    <End Role="StatePC" Type="Self.StatePC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ImagesPC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StatePC">
+        <PropertyRef Name="Image_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ComputerClubModelStoreContainer">
+    <EntitySet Name="ImagesPC" EntityType="Self.ImagesPC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PCs" EntityType="Self.PCs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StatePC" EntityType="Self.StatePC" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Orders__PCId__173876EA" Association="Self.FK__Orders__PCId__173876EA">
+      <End Role="PCs" EntitySet="PCs" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__StatePC__Image_I__145C0A3F" Association="Self.FK__StatePC__Image_I__145C0A3F">
+      <End Role="ImagesPC" EntitySet="ImagesPC" />
+      <End Role="StatePC" EntitySet="StatePC" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

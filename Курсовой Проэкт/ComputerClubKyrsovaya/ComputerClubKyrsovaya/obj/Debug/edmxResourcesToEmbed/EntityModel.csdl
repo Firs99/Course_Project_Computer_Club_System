@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ComputerClubModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ImagesPC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ImagePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="StatePCs" Relationship="Self.FK__StatePC__Image_I__145C0A3F" FromRole="ImagesPC" ToRole="StatePC" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PCId" Type="Int32" />
+    <Property Name="DateStart" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DateEnd" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="PC" Relationship="Self.FK__Orders__PCId__173876EA" FromRole="Orders" ToRole="PCs" />
+  </EntityType>
+  <EntityType Name="PC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StatusId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK__Orders__PCId__173876EA" FromRole="PCs" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="StatePC">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Image_Id" Type="Int32" />
+    <NavigationProperty Name="ImagesPC" Relationship="Self.FK__StatePC__Image_I__145C0A3F" FromRole="StatePC" ToRole="ImagesPC" />
+  </EntityType>
+  <Association Name="FK__StatePC__Image_I__145C0A3F">
+    <End Role="ImagesPC" Type="Self.ImagesPC" Multiplicity="0..1" />
+    <End Role="StatePC" Type="Self.StatePC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ImagesPC">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StatePC">
+        <PropertyRef Name="Image_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Orders__PCId__173876EA">
+    <End Role="PCs" Type="Self.PC" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PCs">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="PCId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ClubEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ImagesPCs" EntityType="Self.ImagesPC" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <EntitySet Name="PCs" EntityType="Self.PC" />
+    <EntitySet Name="StatePCs" EntityType="Self.StatePC" />
+    <AssociationSet Name="FK__StatePC__Image_I__145C0A3F" Association="Self.FK__StatePC__Image_I__145C0A3F">
+      <End Role="ImagesPC" EntitySet="ImagesPCs" />
+      <End Role="StatePC" EntitySet="StatePCs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Orders__PCId__173876EA" Association="Self.FK__Orders__PCId__173876EA">
+      <End Role="PCs" EntitySet="PCs" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

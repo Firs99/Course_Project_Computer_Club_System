@@ -1,0 +1,182 @@
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojAssemblyReference.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CoreCompileInputs.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CopyComplete
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.cache
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CopyComplete
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+C:\Users\User\Documents\Desktop\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojAssemblyReference.cache
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.cache
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CoreCompileInputs.cache
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CopyComplete
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.g.cs
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.baml
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.g.cs
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.baml
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.cache
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desktop\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CopyComplete
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojAssemblyReference.cache
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.g.cs
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.baml
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.cache
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CoreCompileInputs.cache
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CopyComplete
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\MaterialDesignColors.dll
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.baml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\System.Windows.Interactivity.dll
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\MaterialDesignColors.pdb
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\System.Windows.Interactivity.xml
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.g.cs
+F:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.baml
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.g.cs
+G:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.baml
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojResolveAssemblyReference.cache
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.g.cs
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.g.cs
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.baml
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.baml
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+D:\Slava\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.Cache
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe.config
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.exe
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\ComputerClubKyrsovaya.pdb
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.dll
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.xml
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csprojAssemblyReference.cache
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.g.cs
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.g.cs
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.g.cs
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\App.g.cs
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_Content.g.cs
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.cache
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya_MarkupCompile.lref
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\AddPcWindow.baml
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\EditPcWindow.baml
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\MainWindow.baml
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.g.resources
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.Properties.Resources.resources
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.GenerateResource.cache
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CoreCompileInputs.cache
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.csproj.CopyComplete
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.exe
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\obj\Debug\ComputerClubKyrsovaya.pdb
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\System.Windows.Interactivity.dll
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Курсова .NET\Курсовой Проэкт\ComputerClubKyrsovaya\ComputerClubKyrsovaya\bin\Debug\System.Windows.Interactivity.xml
